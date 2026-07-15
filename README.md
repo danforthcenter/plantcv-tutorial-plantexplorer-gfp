@@ -5,6 +5,8 @@ This tutorial describes how to visualize GFP fluorescence and isolate plant tiss
 The example setaria image contains four wildtype plants (left side) and four GFP plants (right side).
 Plant provided by Dong-Yeon Lee from Nusinow lab.
 
+*Note* this workfow requires PlantCV v5.
+
 ## Tutorial tags/keywords
 
 GFP
